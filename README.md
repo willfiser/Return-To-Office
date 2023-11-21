@@ -4,7 +4,7 @@
 
 ![Image 1](assets/Image_1.png)
 
-<p style="text-align: middle">
+<p style="text-align: center">
 Cassie Adams | Jason Edwards | Will Fiser | Nikola Novakovic </p>
 
 # Executive Summary
