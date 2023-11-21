@@ -1,20 +1,11 @@
-# Return to Work:
+# Return to Office
 
 ## An Analysis of Sentiment and Prevalence of Remote Work vs. Telecommuting
 
 ![Image 1](assets/Image_1.png)
 
-<p style="text-align: right">
-Cassie Adams - A10593797</p>
-
-<p style="text-align: right">
-Jason Edwards - A20324378</p>
-
-<p style="text-align: right">
-Will Fiser - A20084110</p>
-
-<p style="text-align: right">
-Nikola Novakovic - A20395174</p>
+<p style="text-align: middle">
+Cassie Adams | Jason Edwards | Will Fiser | Nikola Novakovic </p>
 
 # Executive Summary
 
